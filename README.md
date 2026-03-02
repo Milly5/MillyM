@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milly5
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning PHP with Mysql essentials
-- 💞️ I’m looking to collaborate on creating page content, applicetions and also create user control accsess
+- 🌱 I’m currently learning PHP with MySQL essentials
+- 💞️ I’m looking to collaborate on creating page content, applications, and also create user control access
 - 📫 How to reach me Email: millyayuma7@gmail.com
 
 <!---
